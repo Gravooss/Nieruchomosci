@@ -27,6 +27,8 @@ prowizję dla biura nieruchomości jeśli jest po stronie nabywcy.
 
 Projekt aplikacji powstał w programe Android Studio z wykorzystaniem bibliotek SDK Android, do łączenia z internetem została dodana biblioteka Jsoup. Do zapisywania danych klienta posłużył SharedPreferences.
 
+## Wygląd aplikacji
+
 ![18765124_1977044962524721_1728506276_o](https://cloud.githubusercontent.com/assets/29023147/26532113/33886da6-43f9-11e7-9a3d-23316969430f.png)
 ![18765170_1977044972524720_430482130_o](https://cloud.githubusercontent.com/assets/29023147/26532136/8b47af98-43f9-11e7-97af-64a1fd013a03.png)
 ![18767073_1977044949191389_1246619238_o](https://cloud.githubusercontent.com/assets/29023147/26532139/8e12a23c-43f9-11e7-812e-2f77f0f32ed6.png)
