@@ -24,3 +24,5 @@ opłatę za wniosek o wpis/zmianę właściciela do KW, podatek od czynności cy
 prowizję dla biura nieruchomości jeśli jest po stronie nabywcy.
 
 ## Użyta technologia
+
+![18765124_1977044962524721_1728506276_o](https://cloud.githubusercontent.com/assets/29023147/26532113/33886da6-43f9-11e7-9a3d-23316969430f.png)
