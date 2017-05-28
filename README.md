@@ -25,4 +25,7 @@ prowizję dla biura nieruchomości jeśli jest po stronie nabywcy.
 
 ## Użyta technologia
 
-![18765124_1977044962524721_1728506276_o](https://cloud.githubusercontent.com/assets/29023147/26532113/33886da6-43f9-11e7-9a3d-23316969430f.png)
+![18765170_1977044972524720_430482130_o](https://cloud.githubusercontent.com/assets/29023147/26532136/8b47af98-43f9-11e7-97af-64a1fd013a03.png)
+![18767073_1977044949191389_1246619238_o](https://cloud.githubusercontent.com/assets/29023147/26532139/8e12a23c-43f9-11e7-812e-2f77f0f32ed6.png)
+![18789021_1977044945858056_1806496149_o](https://cloud.githubusercontent.com/assets/29023147/26532140/90ab7186-43f9-11e7-9aeb-34640d50d6bf.png)
+![18789804_1977044952524722_1764057642_o](https://cloud.githubusercontent.com/assets/29023147/26532141/91b3d654-43f9-11e7-9b70-e1af9ee15d13.png)
