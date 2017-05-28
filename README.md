@@ -29,7 +29,7 @@ Projekt aplikacji powstał w programe Android Studio z wykorzystaniem bibliotek 
 
 ## Opis funkcjonalności
 
-Po zainstalowaniu aplikacji użytkownik dzięki intuicyjnej miniaturze włącza aplikację. Jego oczom ukazuje się miłe powitanie oraz ekran z trzema możliwymi aktywnościami. Przycisk "Start" skieruje go na drogę ku ostatecznemu wyjaśnieniu kwestii ilość potrzebnego kapitału przeznaczonego na koszty wstępne przed zakupem nieruchomości. Drugi przycisk oznaczony jako "O APLIKACJI" umożliwia użytkownikowi zapoznanie się z sylwetkami autorów oraz krótkim opisem aplikacji. Trzecia aktywność to "WALUTY", użytkownik może zapoznać się z obecnym kursem waluty jaką podaje strona bankier.pl.
+Po zainstalowaniu aplikacji użytkownik dzięki intuicyjnej miniaturze włącza aplikację. Jego oczom ukazuje się miłe powitanie oraz ekran z trzema możliwymi aktywnościami. Przycisk "Start" skieruje go na drogę ku ostatecznemu wyjaśnieniu kwestii ilości potrzebnego kapitału przeznaczonego na koszty wstępne przed zakupem nieruchomości. Drugi przycisk oznaczony jako "O APLIKACJI" umożliwia użytkownikowi zapoznanie się z sylwetkami autorów oraz krótkim opisem aplikacji. Trzecia aktywność to "WALUTY", użytkownik może zapoznać się z obecnym kursem waluty jaką podaje strona bankier.pl.
 
 
 
