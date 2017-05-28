@@ -27,6 +27,12 @@ prowizję dla biura nieruchomości jeśli jest po stronie nabywcy.
 
 Projekt aplikacji powstał w programe Android Studio z wykorzystaniem bibliotek SDK Android, do łączenia z internetem została dodana biblioteka Jsoup. Do zapisywania danych klienta posłużył SharedPreferences.
 
+## Opis funkcjonalności
+
+Po zainstalowaniu aplikacji użytkownik dzięki intuicyjnej miniaturze włącza aplikację. Jego oczom ukazuje się miłe powitanie oraz ekran z trzema możliwymi aktywnościami. Przycisk "Start" skieruje go na drogę ku ostatecznemu wyjaśnieniu kwestii ilość potrzebnego kapitału przeznaczonego na koszty wstępne przed zakupem nieruchomości. Drugi przycisk oznaczony jako "O APLIKACJI" umożliwia użytkownikowi zapoznanie się z sylwetkami autorów oraz krótkim opisem aplikacji. Trzecia aktywność to "WALUTY", użytkownik może zapoznać się z obecnym kursem waluty jaką podaje strona bankier.pl.
+
+
+
 ## Wygląd aplikacji
 
 ![18765124_1977044962524721_1728506276_o](https://cloud.githubusercontent.com/assets/29023147/26532113/33886da6-43f9-11e7-9a3d-23316969430f.png)
